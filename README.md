@@ -1,4 +1,3 @@
 # company
 
-TODO: Enter the cookbook description here.
-
+This is the company to work for
